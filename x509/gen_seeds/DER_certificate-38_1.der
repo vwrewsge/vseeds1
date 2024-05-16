@@ -1,0 +1,3 @@
+Some dummy data for the DER_certificate file with Policy Mappings and Key Usage Decipher Only features
+Policy Mappings: DER_certificate files may include mappings between policies in different certification hierarchies.
+Key Usage Decipher Only: DER_certificate files may specify that the public key is used only for decipherment.

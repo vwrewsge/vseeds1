@@ -1,0 +1,9 @@
+PCAP file 1 containing capturing information
+Capture Filter: filter_1
+Interface Name: interface_1
+Timestamp: Wed May 15 22:06:24 2024
+Packet Timestamp Format: Unix timestamp
+Packet Capture Statistics:
+Number of Packets Captured: 1000
+Capture Duration: 60 seconds
+Packet Rate: 16.666666666666668 packets/second

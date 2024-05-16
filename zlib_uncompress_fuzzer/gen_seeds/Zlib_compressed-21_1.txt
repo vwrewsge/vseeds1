@@ -1,0 +1,1 @@
+Dynamic dictionary support: Zlib_compressed files can utilize dynamic dictionaries to improve compression ratios for repetitive data patterns, enhancing compression efficiency.

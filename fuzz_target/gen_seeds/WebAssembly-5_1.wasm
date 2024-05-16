@@ -1,0 +1,8 @@
+
+(module
+  (func $calculate
+    (result i32)
+    i32.const 42
+  )
+  (export "calculate" (func $calculate))
+)

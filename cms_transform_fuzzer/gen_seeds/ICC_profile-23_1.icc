@@ -1,0 +1,4 @@
+
+ICC Profile:
+- Embedded Profile: Some files may embed ICC profiles for consistent color appearance across different devices and software.
+- Tag Types: Profiles include different types of tags such as text, multiLocalizedUnicode, XYZ, curve, parametricCurve, etc.
